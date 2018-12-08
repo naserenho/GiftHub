@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.fa3f5e38.chunk.css",
-  "main.js": "/static/js/main.ea6c185a.chunk.js",
-  "main.js.map": "/static/js/main.ea6c185a.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "/static/js/1.82dafdb5.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.fa3f5e38.chunk.css.map": "/static/css/main.fa3f5e38.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.0ec1b234b398004f77d527d658dc1e3a.js": "/precache-manifest.0ec1b234b398004f77d527d658dc1e3a.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/GiftHub/static/css/main.fa3f5e38.chunk.css",
+  "main.js": "/GiftHub/static/js/main.33a0289c.chunk.js",
+  "main.js.map": "/GiftHub/static/js/main.33a0289c.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/GiftHub/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/GiftHub/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/GiftHub/static/js/runtime~main.f7e45026.js",
+  "runtime~main.js.map": "/GiftHub/static/js/runtime~main.f7e45026.js.map",
+  "static/media/logo.svg": "/GiftHub/static/media/logo.5d5d9eef.svg",
+  "static/css/main.fa3f5e38.chunk.css.map": "/GiftHub/static/css/main.fa3f5e38.chunk.css.map",
+  "index.html": "/GiftHub/index.html",
+  "precache-manifest.b3ba3b50e5f56d681ac1206e9fba16a9.js": "/GiftHub/precache-manifest.b3ba3b50e5f56d681ac1206e9fba16a9.js",
+  "service-worker.js": "/GiftHub/service-worker.js"
 }
